@@ -5,3 +5,5 @@ new code
 second new code
 
 new feature_x
+
+new feature_y
